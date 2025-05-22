@@ -17,40 +17,39 @@
 <p align="left">
   <!-- Google Ads -->
   <a href="https://ads.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg" alt="Google Ads" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Ads_logo.svg" alt="Google Ads" width="40" height="40"/>
   </a>
 
   <!-- Google Analytics -->
   <a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Analytics_logo.png" alt="Google Analytics" width="40" height="40"/>
   </a>
 
   <!-- Google Tag Manager -->
   <a href="https://tagmanager.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_tagmanager/google_tagmanager-icon.svg" alt="Google Tag Manager" width="40" height="40"/>
+    <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" alt="Google Tag Manager" width="40" height="40"/>
   </a>
 
-  <!-- Looker Studio / Data Studio -->
-  <a href="https://datastudio.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_data_studio/google_data_studio-icon.svg" alt="Looker Studio" width="40" height="40"/>
+  <!-- Looker Studio -->
+  <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.gstatic.com/images/branding/product/2x/datastudio_96dp.png" alt="Looker Studio" width="40" height="40"/>
   </a>
 
   <!-- Facebook Ads -->
   <a href="https://www.facebook.com/business/tools/ads-manager" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook Ads" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook Ads" width="40" height="40"/>
   </a>
 
   <!-- Google Optimize -->
   <a href="https://marketingplatform.google.com/about/optimize/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_optimize/google_optimize-icon.svg" alt="Google Optimize" width="40" height="40"/>
+    <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_optimize.svg" alt="Google Optimize" width="40" height="40"/>
   </a>
 
   <!-- Zapier -->
   <a href="https://zapier.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Zapier_logo.png" alt="Zapier" width="40" height="40"/>
   </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khileshsammal&show_icons=true&locale=en&layout=compact" alt="khileshsammal" /></p>
 
