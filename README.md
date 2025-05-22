@@ -22,17 +22,17 @@
 
   <!-- Google Analytics -->
   <a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="Google Analytics" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" alt="Google Analytics" width="40" height="40"/>
   </a>
 
   <!-- Google Tag Manager -->
   <a href="https://tagmanager.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/G/google-tag-manager-logo-78A75D0C4D-seeklogo.com.png" alt="Google Tag Manager" width="40" height="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/google-tag-manager-icon-2048x2048-qnna1tfa.png" alt="Google Tag Manager" width="40" height="40"/>
   </a>
 
   <!-- Looker Studio -->
   <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://lookerstudio.google.com/images/logos/ds-icon.png" alt="Looker Studio" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" alt="Looker Studio" width="40" height="40"/>
   </a>
 
   <!-- Facebook Ads -->
@@ -42,7 +42,7 @@
 
   <!-- Google Optimize -->
   <a href="https://marketingplatform.google.com/about/optimize/" target="_blank" rel="noreferrer">
-    <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_optimize.svg" alt="Google Optimize" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Optimize_Logo.png" alt="Google Optimize" width="40" height="40"/>
   </a>
 
   <!-- Zapier -->
