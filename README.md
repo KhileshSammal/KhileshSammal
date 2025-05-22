@@ -17,27 +17,27 @@
 <p align="left">
   <!-- Google Ads -->
   <a href="https://ads.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Ads_logo.svg" alt="Google Ads" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Ads" width="40" height="40"/>
   </a>
 
   <!-- Google Analytics -->
   <a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Analytics_logo.png" alt="Google Analytics" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="Google Analytics" width="40" height="40"/>
   </a>
 
   <!-- Google Tag Manager -->
   <a href="https://tagmanager.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" alt="Google Tag Manager" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/G/google-tag-manager-logo-78A75D0C4D-seeklogo.com.png" alt="Google Tag Manager" width="40" height="40"/>
   </a>
 
   <!-- Looker Studio -->
   <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.gstatic.com/images/branding/product/2x/datastudio_96dp.png" alt="Looker Studio" width="40" height="40"/>
+    <img src="https://lookerstudio.google.com/images/logos/ds-icon.png" alt="Looker Studio" width="40" height="40"/>
   </a>
 
   <!-- Facebook Ads -->
   <a href="https://www.facebook.com/business/tools/ads-manager" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" alt="Facebook Ads" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook Ads" width="40" height="40"/>
   </a>
 
   <!-- Google Optimize -->
@@ -47,7 +47,7 @@
 
   <!-- Zapier -->
   <a href="https://zapier.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Zapier_logo.png" alt="Zapier" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-zapier-1-282872.png" alt="Zapier" width="40" height="40"/>
   </a>
 </p>
 
