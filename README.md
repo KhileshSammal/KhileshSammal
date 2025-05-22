@@ -50,12 +50,12 @@
     <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook Ads" width="40" height="40"/>
   </a>
 
-  <!-- Zapier -->
+  <!-- Zapier 
   <a href="https://zapier.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-zapier-1-282872.png" alt="Zapier" width="40" height="40"/>
+    <img src="" alt="Zapier" width="40" height="40"/>
   </a>
 </p>
-
+-->
 <!-- GitHub stats: top languages used -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khileshsammal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
