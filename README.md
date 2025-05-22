@@ -30,19 +30,9 @@
     <img src="https://static-00.iconduck.com/assets.00/google-tag-manager-icon-2048x2048-qnna1tfa.png" alt="Google Tag Manager" width="40" height="40"/>
   </a>
 
-  <!-- Looker Studio -->
-  <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" alt="Looker Studio" width="40" height="40"/>
-  </a>
-
   <!-- Facebook Ads -->
   <a href="https://www.facebook.com/business/tools/ads-manager" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook Ads" width="40" height="40"/>
-  </a>
-
-  <!-- Google Optimize -->
-  <a href="https://marketingplatform.google.com/about/optimize/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Optimize_Logo.png" alt="Google Optimize" width="40" height="40"/>
   </a>
 
   <!-- Zapier -->
